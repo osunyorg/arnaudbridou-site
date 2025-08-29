@@ -1,7 +1,10 @@
 ---
 name: IMG.png
 size: 169974
-format: square
+width: 645
+height: 470
+ratio: 1.372340425531915
+format: landscape
 url: https://arnaudbridou.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIwYTEzYzgzLTlhODgtNDM4Mi04NDZhLTMxYTZiMWYwODZjYyIsInB1ciI6ImJsb2JfaWQifX0=--bb9703dc24cca057231999bbd655c7517f7dc605/IMG.png
 direct_url: https://osuny.s3.fr-par.scw.cloud/yhwjw5hw8usizklfuudlcatdvpew
 download_url: https://arnaudbridou.osuny.org/media/download/eyJfcmFpbHMiOnsiZGF0YSI6IjIwYTEzYzgzLTlhODgtNDM4Mi04NDZhLTMxYTZiMWYwODZjYyIsInB1ciI6ImJsb2JfaWQifX0=--bb9703dc24cca057231999bbd655c7517f7dc605
