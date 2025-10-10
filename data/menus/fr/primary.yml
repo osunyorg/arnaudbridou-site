@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Parcours
   target: "/parcours/"
   kind: page
@@ -8,6 +15,13 @@ items:
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Organisations
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/organizations"
+  file: content/fr/organizations/_index.html
 - title: Projets
   target: "/projets/"
   kind: page
