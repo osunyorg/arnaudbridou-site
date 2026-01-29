@@ -1,0 +1,25 @@
+---
+title: upper menu
+items:
+- title: Publications
+  target: "/publications/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/publications"
+  file: content/fr/pages/publications/_index.html
+- title: Projets
+  target: "/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
+- title: Parcours
+  target: "/parcours/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
+
