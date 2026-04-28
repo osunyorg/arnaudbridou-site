@@ -14,3 +14,23 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/2025-08-05-premiers-pas-sur-osuny/index.html"
+to = "/actualites/2025-08-05-premiers-pas-sur-osuny/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/parcours/"
+
+[[redirects]]
+from = "/parcours/politique-de-confidentialite/index.html"
+to = "/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/equipe-editoriale/"
+
+[[redirects]]
+from = "/projets/ecosystemes/dechets-electriques/index.html"
+to = "/projets/dechets-electriques/"
+
