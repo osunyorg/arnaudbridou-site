@@ -31,6 +31,10 @@ from = "/equipe/equipe-editoriale/index.html"
 to = "/equipe-editoriale/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/comprendre-devoiler-initier-memoire-2023-webpdf/"
+
+[[redirects]]
 from = "/projets/ecosystemes/dechets-electriques/index.html"
 to = "/projets/dechets-electriques/"
 
